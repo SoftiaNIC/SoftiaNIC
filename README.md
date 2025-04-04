@@ -4,7 +4,7 @@ SOFTIA</a></h1>
 ![Softia3](https://github.com/user-attachments/assets/f45cc5f1-373f-4f24-9634-a2fed62b6a0f)
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_300_kxa883sd.gif" alt="adam-pw" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
