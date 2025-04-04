@@ -2,4 +2,7 @@
 SOFTIA</a></h1>
 
 
-![softia](https://github.com/user-attachments/assets/919331e3-bd33-4c63-a348-dfdcb5829a3b)
+
+![sofia2](https://github.com/user-attachments/assets/977cbb6b-1572-4e53-867a-bd92030e7ac2)
+
+
