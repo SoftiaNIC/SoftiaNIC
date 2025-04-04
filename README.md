@@ -21,7 +21,7 @@ SOFTIA</a></h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
-##### Languages we Use
+<h1 align="center">languages</h1>
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
@@ -31,7 +31,7 @@ SOFTIA</a></h1>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### some of the technologies we work with
+<h1 align="center">some of the technologies we work with</h1>
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
