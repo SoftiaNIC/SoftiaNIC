@@ -31,9 +31,6 @@ SOFTIA</a></h1>
   <a href="https://open.spotify.com/playlist/1zPGS5PkRH5YmzDBXEZc73" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://dev.to/ABSphreak" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
-  </a>
 </p>
 
 <!--- stats & Trophy (start) -->
