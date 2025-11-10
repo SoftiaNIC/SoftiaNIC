@@ -18,6 +18,52 @@ SOFTIA</a></h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kenneth-teller-78686819a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/joan.teller2014/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/kenneth.teller.7" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://open.spotify.com/playlist/1zPGS5PkRH5YmzDBXEZc73" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://dev.to/ABSphreak" target="_blank">
+    <img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to">
+  </a>
+</p>
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <!-- GitHub Stats -->
+        <img src="https://github-readme-stats.vercel.app/api?username=SoftiaNIC&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
+        <br/><br/>
+        <!-- Streak -->
+        <img src="https://streak-stats.demolab.com?user=SoftiaNIC&theme=dark&hide_border=false" alt="GitHub streak" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Top Languages -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftiaNIC&theme=dark&hide_border=false&langs_count=10&layout=compact" alt="Top languages" />
+      </td>
+    </tr>
+  </table>
+
+  <!-- Trophy -->
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img width="84%" src="https://github-profile-trophy.vercel.app/?username=SoftiaNIC&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+  </div>
+</p>
+<!--- stats (end) -->
+
+
 <h1 align="center">languages</h1>
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
