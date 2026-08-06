@@ -1,0 +1,69 @@
+<svg width="1280" height="620" viewBox="0 0 1280 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="620" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#050806"/><stop offset="0.56" stop-color="#07100A"/><stop offset="1" stop-color="#0A1A10"/>
+  </linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1035 258) rotate(135) scale(410 420)" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#20E76B" stop-opacity="0.26"/><stop offset="0.5" stop-color="#20E76B" stop-opacity="0.07"/><stop offset="1" stop-color="#20E76B" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+    <path d="M38 0H0V38" stroke="#17311F" stroke-width="1" stroke-opacity="0.42"/>
+  </pattern>
+  <filter id="soft" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1280" height="620" rx="32" fill="url(#bg)"/>
+<rect width="1280" height="620" rx="32" fill="url(#grid)" opacity="0.45"/>
+<rect width="1280" height="620" rx="32" fill="url(#glow)"/>
+<rect x="1" y="1" width="1278" height="618" rx="31" stroke="#213127" stroke-width="2"/>
+
+<!-- Top bar -->
+<circle cx="57" cy="52" r="7" fill="#20E76B"/>
+<text x="78" y="60" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="750" letter-spacing="-1">sof.ia</text>
+<text x="1148" y="57" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2">DIGITAL STUDIO</text>
+<line x1="42" y1="88" x2="1238" y2="88" stroke="#203126"/>
+
+<!-- Copy -->
+<rect x="52" y="129" width="210" height="34" rx="17" fill="#0E1D13" stroke="#244A2F"/>
+<circle cx="72" cy="146" r="5" fill="#20E76B"/>
+<text x="87" y="151" fill="#73FF9E" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6">SOFTWARE CORPORATIVO</text>
+
+<text x="52" y="235" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="57" font-weight="760" letter-spacing="-2.2">La nueva era del</text>
+<text x="52" y="302" fill="#20E76B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="57" font-weight="760" letter-spacing="-2.2">software a medida.</text>
+<text x="55" y="351" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="400">Ecosistemas digitales escalables, diseñados para potenciar</text>
+<text x="55" y="380" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="400">su negocio mediante ingeniería, diseño y automatización.</text>
+
+<rect x="52" y="422" width="205" height="52" rx="12" fill="#20E76B"/>
+<text x="82" y="455" fill="#09100B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750">INICIAR UN PROYECTO</text>
+<rect x="271" y="422" width="191" height="52" rx="12" fill="#0C120E" stroke="#2B3B31"/>
+<text x="301" y="455" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">EXPLORAR TRABAJO</text>
+
+<text x="53" y="552" fill="#5E6D63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="1.6">BUILD  /  DESIGN  /  SCALE</text>
+
+<!-- Abstract system -->
+<circle cx="1017" cy="294" r="208" stroke="#1E4B2B" stroke-width="1.4"/>
+<circle cx="1017" cy="294" r="149" stroke="#275B36" stroke-width="1.4" stroke-dasharray="8 10"/>
+<circle cx="1017" cy="294" r="90" fill="#102116" stroke="#2E7B43" stroke-width="1.4"/>
+<circle cx="1017" cy="294" r="34" fill="#20E76B" filter="url(#soft)" opacity="0.5"/>
+<circle cx="1017" cy="294" r="27" fill="#20E76B"/>
+<path d="M1017 86V196M1017 392V502M809 294H919M1115 294H1225" stroke="#3D7650" stroke-width="1.5"/>
+<path d="M870 147L948 225M1086 363L1165 442M1165 147L1086 225M948 363L870 442" stroke="#31583E" stroke-width="1.4"/>
+
+<g fill="#101813" stroke="#3B7049">
+  <rect x="938" y="133" width="158" height="55" rx="12"/>
+  <rect x="1120" y="265" width="118" height="58" rx="12"/>
+  <rect x="933" y="411" width="168" height="58" rx="12"/>
+  <rect x="785" y="263" width="126" height="60" rx="12"/>
+</g>
+<text x="960" y="157" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">PRODUCT DESIGN</text>
+<text x="960" y="176" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">UI / UX systems</text>
+<text x="1141" y="289" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">MOBILE</text>
+<text x="1141" y="308" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Native + cross</text>
+<text x="955" y="436" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">AI + AUTOMATION</text>
+<text x="955" y="455" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Intelligent workflows</text>
+<text x="807" y="288" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">WEB APPS</text>
+<text x="807" y="307" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">Modern platforms</text>
+
+<g fill="#20E76B">
+ <circle cx="1017" cy="86" r="5"/><circle cx="1225" cy="294" r="5"/><circle cx="1017" cy="502" r="5"/><circle cx="809" cy="294" r="5"/>
+</g>
+</svg>

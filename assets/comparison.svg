@@ -1,0 +1,24 @@
+<svg width="1280" height="470" viewBox="0 0 1280 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="470" rx="30" fill="#050806"/><rect x="1" y="1" width="1278" height="468" rx="29" stroke="#203126" stroke-width="2"/>
+<text x="48" y="53" fill="#20E76B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">FILOSOFÍA DE INGENIERÍA</text>
+<text x="48" y="98" fill="#F4F7F5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="34" font-weight="760">Ingeniería sin límites.</text>
+<text x="48" y="130" fill="#A3AEA7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">No adaptamos su negocio a una plantilla. Diseñamos la arquitectura alrededor de sus reglas.</text>
+
+<rect x="48" y="168" width="564" height="250" rx="22" fill="#0B0E0C" stroke="#282E2A"/>
+<text x="76" y="205" fill="#7D8881" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">EL PASADO / PLANTILLAS</text>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="76" y="250" fill="#F4F7F5" font-size="15" font-weight="700">Arquitectura</text><text x="225" y="250" fill="#859088" font-size="14">Rígida y dependiente de plugins.</text>
+ <text x="76" y="297" fill="#F4F7F5" font-size="15" font-weight="700">Rendimiento</text><text x="225" y="297" fill="#859088" font-size="14">Capas innecesarias y menor control.</text>
+ <text x="76" y="344" fill="#F4F7F5" font-size="15" font-weight="700">Evolución</text><text x="225" y="344" fill="#859088" font-size="14">Cambios costosos al crecer.</text>
+ <text x="76" y="391" fill="#F4F7F5" font-size="15" font-weight="700">Producto</text><text x="225" y="391" fill="#859088" font-size="14">El negocio se adapta a la herramienta.</text>
+</g>
+
+<rect x="636" y="168" width="596" height="250" rx="22" fill="#0D1B11" stroke="#2C7041"/>
+<text x="664" y="205" fill="#20E76B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.5">EL ESTÁNDAR / SOF.IA</text>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+ <text x="664" y="250" fill="#F4F7F5" font-size="15" font-weight="700">Arquitectura</text><text x="813" y="250" fill="#A3AEA7" font-size="14">Moderna, modular y diseñada a medida.</text>
+ <text x="664" y="297" fill="#F4F7F5" font-size="15" font-weight="700">Rendimiento</text><text x="813" y="297" fill="#A3AEA7" font-size="14">Optimización técnica y control del stack.</text>
+ <text x="664" y="344" fill="#F4F7F5" font-size="15" font-weight="700">Evolución</text><text x="813" y="344" fill="#A3AEA7" font-size="14">Nuevos módulos, canales e integraciones.</text>
+ <text x="664" y="391" fill="#F4F7F5" font-size="15" font-weight="700">Producto</text><text x="813" y="391" fill="#A3AEA7" font-size="14">El software sigue las reglas del negocio.</text>
+</g>
+</svg>
