@@ -1,16 +1,8 @@
 <div align="center">
 
 <a href="https://sof-ia-landding.vercel.app/" aria-label="Visitar el sitio web de sof.ia">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/sofia-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/brand/sofia-light.png">
-    <img src="./assets/brand/sofia-light.png" alt="sof.ia" width="460">
-  </picture>
+  <img src="./assets/hero.svg" alt="Nosotros somos sof.ia — software, diseño de producto e inteligencia artificial" width="100%">
 </a>
-
-## Nosotros somos sof.ia
-
-**Construimos software de vanguardia, interfaces memorables y experiencias digitales que impulsan negocios hacia el futuro.**
 
 [![Sitio web](https://img.shields.io/badge/SITIO_WEB-Conocer_sof.ia-20E76B?style=for-the-badge&labelColor=07100A&logo=googlechrome&logoColor=white)](https://sof-ia-landding.vercel.app/)
 [![Software corporativo](https://img.shields.io/badge/SOFTWARE-Corporativo-5538EE?style=for-the-badge&labelColor=07100A&logo=vercel&logoColor=white)](https://sof-ia-landding.vercel.app/secondary)
@@ -29,14 +21,7 @@ Somos un equipo de creadores, ingenieros y visionarios dedicado a diseñar exper
 
 Desde startups hasta soluciones empresariales, trabajamos como socios tecnológicos para hacer realidad la visión de cada cliente. Cada proyecto es una oportunidad para superar límites y redefinir lo que es posible.
 
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>7+</h2><sub>AÑOS DE EXPERIENCIA</sub></td>
-    <td align="center" width="25%"><h2>150+</h2><sub>PROYECTOS ENTREGADOS</sub></td>
-    <td align="center" width="25%"><h2>50+</h2><sub>MIEMBROS DEL EQUIPO</sub></td>
-    <td align="center" width="25%"><h2>30+</h2><sub>CLIENTES GLOBALES</sub></td>
-  </tr>
-</table>
+<img src="./assets/metrics.svg" alt="Impacto de sof.ia: más de 7 años de experiencia, 150 proyectos, 50 miembros y 30 clientes globales" width="100%">
 
 > Creemos en el poder de la tecnología para transformar negocios: arquitectura sólida, diseño con intención y una relación de trabajo transparente.
 
@@ -44,8 +29,10 @@ Desde startups hasta soluciones empresariales, trabajamos como socios tecnológi
 
 Soluciones digitales integrales adaptadas a necesidades, usuarios y procesos reales.
 
-<details open>
-<summary><strong>01 · Producto e ingeniería</strong></summary>
+<img src="./assets/services.svg" alt="Servicios de sof.ia: desarrollo de software, UI/UX, aplicaciones web y móviles, soluciones digitales, equipos, tecnologías modernas e inteligencia artificial" width="100%">
+
+<details>
+<summary><strong>Ver capacidades en detalle</strong></summary>
 
 <table>
   <tr>
@@ -69,11 +56,6 @@ Soluciones digitales integrales adaptadas a necesidades, usuarios y procesos rea
     </td>
   </tr>
 </table>
-
-</details>
-
-<details>
-<summary><strong>02 · Innovación y crecimiento</strong></summary>
 
 <table>
   <tr>
@@ -104,12 +86,19 @@ Soluciones digitales integrales adaptadas a necesidades, usuarios y procesos rea
 
 No construimos sobre plantillas ni gestores limitados. Diseñamos arquitecturas robustas que evolucionan con cada empresa.
 
+<img src="./assets/comparison.svg" alt="Comparación entre plantillas tradicionales y el estándar de ingeniería de sof.ia" width="100%">
+
+<details>
+<summary><strong>Consultar comparación en texto</strong></summary>
+
 | Dimensión | Plantillas tradicionales | El estándar sof.ia |
 |:--|:--|:--|
 | **Arquitectura** | Rígida y dependiente de plugins | Stack moderno y arquitectura diseñada a medida |
 | **Rendimiento** | Cargas lentas y menor control técnico | Experiencias rápidas y optimización integral |
 | **Seguridad** | Superficie de ataque condicionada por terceros | Persistencia segura, permisos y trazabilidad desde el diseño |
 | **Escalabilidad** | Reescrituras costosas al crecer | Nuevos usuarios, módulos y canales sin rehacer el producto |
+
+</details>
 
 ## Proyectos seleccionados
 

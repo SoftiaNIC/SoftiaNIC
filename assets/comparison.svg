@@ -1,0 +1,40 @@
+<svg width="1280" height="520" viewBox="0 0 1280 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="comparison-bg" x1="0" y1="0" x2="1280" y2="520"><stop stop-color="#050508"/><stop offset="0.52" stop-color="#090713"/><stop offset="1" stop-color="#06110B"/></linearGradient>
+    <radialGradient id="comparison-glow" cx="0" cy="0" r="1" gradientTransform="translate(956 294) rotate(180) scale(560 340)"><stop stop-color="#8B5CF6" stop-opacity="0.17"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1280" height="520" rx="30" fill="url(#comparison-bg)"/>
+  <rect width="1280" height="520" rx="30" fill="url(#comparison-glow)"/>
+  <rect x="1" y="1" width="1278" height="518" rx="29" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
+  <text x="48" y="51" fill="#A88CFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="2.2">01 · FILOSOFÍA</text>
+  <text x="48" y="98" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="850">Ingeniería sin límites.</text>
+  <text x="48" y="130" fill="#AAA6B4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">No construimos sobre plantillas ni gestores limitados. Diseñamos arquitecturas robustas que evolucionan con su empresa.</text>
+
+  <rect x="48" y="166" width="564" height="306" rx="22" fill="#FFFFFF" fill-opacity="0.025" stroke="#FFFFFF" stroke-opacity="0.09"/>
+  <text x="76" y="205" fill="#777281" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">EL PASADO</text>
+  <text x="76" y="232" fill="#D4D1D9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="750">Plantillas tradicionales</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="76" y="282" fill="#FFFFFF" font-size="14" font-weight="750">Arquitectura</text><text x="220" y="282" fill="#888391" font-size="13">Rígida y dependiente de plugins.</text>
+    <line x1="76" y1="300" x2="584" y2="300" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <text x="76" y="332" fill="#FFFFFF" font-size="14" font-weight="750">Rendimiento</text><text x="220" y="332" fill="#888391" font-size="13">Cargas lentas y SEO deficiente.</text>
+    <line x1="76" y1="350" x2="584" y2="350" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <text x="76" y="382" fill="#FFFFFF" font-size="14" font-weight="750">Seguridad</text><text x="220" y="382" fill="#888391" font-size="13">Vulnerable a ataques constantes.</text>
+    <line x1="76" y1="400" x2="584" y2="400" stroke="#FFFFFF" stroke-opacity="0.06"/>
+    <text x="76" y="432" fill="#FFFFFF" font-size="14" font-weight="750">Escalabilidad</text><text x="220" y="432" fill="#888391" font-size="13">Reescritura completa al crecer.</text>
+  </g>
+
+  <rect x="636" y="166" width="596" height="306" rx="22" fill="#8B5CF6" fill-opacity="0.075" stroke="#8B5CF6" stroke-opacity="0.42"/>
+  <rect x="636" y="166" width="4" height="306" rx="2" fill="#8B5CF6"/>
+  <text x="666" y="205" fill="#A88CFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="800" letter-spacing="1.8">EL ESTÁNDAR</text>
+  <text x="666" y="232" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">sof.ia</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="666" y="282" fill="#FFFFFF" font-size="14" font-weight="750">Arquitectura</text><text x="810" y="282" fill="#C6C1CE" font-size="13">Next.js, React, Node, Python y Golang.</text>
+    <line x1="666" y1="300" x2="1202" y2="300" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="666" y="332" fill="#FFFFFF" font-size="14" font-weight="750">Rendimiento</text><text x="810" y="332" fill="#C6C1CE" font-size="13">Velocidad instantánea y SEO cercano al 100%.</text>
+    <line x1="666" y1="350" x2="1202" y2="350" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="666" y="382" fill="#FFFFFF" font-size="14" font-weight="750">Seguridad</text><text x="810" y="382" fill="#C6C1CE" font-size="13">Supabase, PostgreSQL y MongoDB.</text>
+    <line x1="666" y1="400" x2="1202" y2="400" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="666" y="432" fill="#FFFFFF" font-size="14" font-weight="750">Escalabilidad</text><text x="810" y="432" fill="#C6C1CE" font-size="13">Escala a millones de usuarios de forma nativa.</text>
+  </g>
+  <circle cx="1197" cy="202" r="12" fill="#20E76B" fill-opacity="0.12" stroke="#20E76B" stroke-opacity="0.5"/><path d="M1191 202L1195 206L1203 197" stroke="#58F18D" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
